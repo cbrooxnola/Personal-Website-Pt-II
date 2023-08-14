@@ -1,2 +1,3 @@
 # Personal-Website-Pt-II
-block 11-12
+## starting with creating a new project
+### using project as guideline for developing site
