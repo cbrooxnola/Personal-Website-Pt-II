@@ -1,5 +1,25 @@
 h1 {
-  font-family: cursive;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: bisque;
+  font-size: 45px;
+}
+.navi {
+  display: flex;
+  text-align: center;
+  float: right;
+  font-size:medium;
+  margin: 10px;
+}
+p {
+  
   text-align: center;
   font-style: italic;
+  font-weight: 600;
+  font-family: cursive;
+  margin: 200px;
+  font-size: 40px;
+
+  
 }
+
+
