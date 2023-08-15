@@ -9,6 +9,8 @@ h1 {
   float: right;
   font-size:medium;
   margin: 10px;
+  border: 3px solid black;
+  padding: 5px;
 }
 
 .intro {
@@ -47,12 +49,16 @@ div {
 }
 form {
   display: flex;
+  font-size: 26px;
 }
 #contact {
   font-size:larger;
 }
 h2 {
   margin: 10px;
+}
+.room {
+  width: 200%;
 }
 
 
