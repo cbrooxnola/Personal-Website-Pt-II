@@ -10,16 +10,34 @@ h1 {
   font-size:medium;
   margin: 10px;
 }
-p {
+
+.intro {
+  margin-left: 10%;
+}
+
+
+.wisdom {
   
   text-align: center;
   font-style: italic;
   font-weight: 600;
   font-family: cursive;
-  margin: 200px;
+  margin: 150px;
   font-size: 40px;
 
   
+}
+.about {
+  display: flex;
+  background-color:bisque;
+  margin: 20px;
+}
+#about {
+  font-size: 30px;
+}
+#fam {
+  float: right;
+  font-size: 22px;
 }
 
 
