@@ -39,5 +39,15 @@ h1 {
   float: right;
   font-size: 22px;
 }
+#update{
+  font-size: 25px;
+  font-style:italic;
+}
+form {
+  display: flex;
+}
+#contact {
+  font-size:larger;
+}
 
 
