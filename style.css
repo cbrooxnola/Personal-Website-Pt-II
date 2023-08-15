@@ -15,6 +15,7 @@ h1 {
 
 .intro {
   margin-left: 10%;
+  margin-right: 10%;
 }
 
 
@@ -32,7 +33,7 @@ h1 {
 div {
   display: flex;
   background-color:bisque;
-  margin: 20px;
+  margin: 40px;
   align-items: center;
   justify-content: center;
 }
